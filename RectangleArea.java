@@ -1,11 +1,11 @@
 public class RectangleArea {
     public static void main(String[] args) {
         
-        double length = 3; // in centimeters
-        double width = 6; // in centimeters
+        int length = 3; // in centimeters
+        int width = 6; // in centimeters
         
        
-        double area = length * width;
+        int area = length * width;
         
         
         System.out.println("Length of the rectangle: " + length + " cm");
